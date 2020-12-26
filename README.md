@@ -1,2 +1,6 @@
 # corona tracker
 AN API BASED COVID TRACKER WHICH GIVES YOUN DATA ABOUT THE ACTIVE CASES AND THE DECEASED.
+
+HERE IS THE LINK OF API:https://api.covid19india.org/data.json
+
+HERE IS THE LINK OF THE APPLICATION:https://covidotracker.netlify.app/
